@@ -31,11 +31,18 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+[![Jatuporn's Trophies](https://github-profile-trophy.vercel.app/?username=jatuporn10522&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📊 GitHub Statistics
 
-![Jatuporn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jatuporn10522&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+<!-- ดึงสถิติผ่านเซิร์ฟเวอร์สำรองที่เสถียรกว่า -->
+![Jatuporn's GitHub Stats](https://github-readme-stats-git-master-rstacruz.vercel.app/api?username=jatuporn10522&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatuporn10522&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats-git-master-rstacruz.vercel.app/api/top-langs/?username=jatuporn10522&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jatuporn10522&theme=dark&hide_border=true&background=0d1117)
 
