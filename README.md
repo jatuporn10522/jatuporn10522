@@ -10,8 +10,8 @@
 นักศึกษาเทคโนโลยีสารสนเทศ มหาวิทยาลัยราชภัฏนครราชสีมา ที่หลงใหลในการพัฒนา **Backend Development**, **System Design** และ **Software Architecture** มุ่งมั่นพัฒนา Clean Code ที่มีประสิทธิภาพสูง
 
 * 🎓 กำลังศึกษาอยู่ที่ **Nakhon Ratchasima Rajabhat University** (NRRU - IT ชั้นปีที่ 3)
-* 🎯 เป้าหมายในอนาคต: ศึกษาต่อระดับปริญญาโทที่ **Suranaree University of Technology** (SUT)
-* 💻 ความสนใจหลัก: RESTful API Development, System Integration, Database Tuning และ DevOps
+* 🎯 เป้าหมายในอนาคต: อยากศึกษาต่อระดับปริญญาโทที่ **Suranaree University of Technology** (SUT)
+* 💻 ความสนใจหลัก: RESTful API Development, System Integration, Backend Dev
 * 🛠️ เครื่องมือที่ใช้ประจำ: VS Code, IntelliJ IDEA และใช้งาน Ollama (Qwen 2.5 Coder / 3.5) ผ่าน Command Line
 
 ---
